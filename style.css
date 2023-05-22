@@ -315,7 +315,14 @@ hr.underline {
   max-width: 200px;
   border-radius: 5px;
 }
-
+a.proj-link {
+  color: white; /* Set the text color to white */
+  text-decoration: underline; /* Remove the underline */
+}
+proj-link:visited{
+  color: white; /* Set the text color to white */
+  text-decoration: underline; /* Remove the underline */
+}
 .contact_header {
   font-size: 40px;
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
